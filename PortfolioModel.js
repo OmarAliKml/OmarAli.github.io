@@ -6,7 +6,7 @@ class PortfolioModel {
             skills: []
         };
     }
-
+ 
    async setup() {
        try {
            const response = await fetch('https://raw.githubusercontent.com/OmAlKml/OmAlKml.github.io/refs/heads/main/data.json');
