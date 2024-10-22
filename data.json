@@ -1,0 +1,139 @@
+{
+    "title": "Omar Ali - Mobile Software Engineer",
+    "navTitle": "Omar Ali",
+    "summaryTitle": "Omar Ali",
+    "summary": "I'm Omar Ali, a passionate Flutter developer dedicated to creating innovative mobile applications that enhance user experiences. I thrive in collaborative environments and embrace challenges that require creative problem-solving.",
+    "copyrights": "&copy; 2024 Omar Ali. All rights reserved.",
+    "references": [
+        {
+            "title": "Code Complete: A Practical Handbook of Software Construction, Second Edition",
+            "url": "https://www.amazon.com/exec/obidos/ASIN/0735619670/codihorr-20?ref=blog.codinghorror.com"
+        },
+        {
+            "title": "Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability (3rd Edition) (Voices That Matter)",
+            "url": "https://www.amazon.com/exec/obidos/ASIN/0321965515/codihorr-20?ref=blog.codinghorror.com"
+        },
+        {
+            "title": "Peopleware: Productive Projects and Teams",
+            "url": "https://www.amazon.com/exec/obidos/ASIN/0932633439/codihorr-20?ref=blog.codinghorror.com"
+        },
+        {
+            "title": "The Pragmatic Programmer: From Journeyman to Master",
+            "url": "https://www.amazon.com/exec/obidos/ASIN/020161622X/codihorr-20?ref=blog.codinghorror.com"
+        },
+        {
+            "title": "Facts and Fallacies of Software Engineering",
+            "url": "https://www.amazon.com/exec/obidos/ASIN/0321117425/codihorr-20?ref=blog.codinghorror.com"
+        },
+        {
+            "title": "Design Patterns: Elements of Reusable Object-Oriented Software",
+            "url": "https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612"
+        },
+        {
+            "title": "Clean Code by Robert C. Martin",
+            "url": "https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882"
+        },
+        {
+            "title": "Head First Design Patterns: Building Extensible and Maintainable Object-Oriented Software",
+            "url": "https://www.amazon.com/Head-First-Design-Patterns-Object-Oriented/dp/149207800X/ref=sr_1_1?crid=ZMO6HFUKGFWA&dib=eyJ2IjoiMSJ9.KueZMlNMlxnKpiJVz_jRt4V6hzrk0qD8tiUpkGp0oOdlFK8HtPgqGnfqPFawhdwfo2YG8iCjcpiEkHGlE_GlhrLbwpdTN1_NBr9A2tppZkBR2hUz1Vc0k5-ws_b_f2LWMKGjerBiW1UzsR-9IDs-Lfyz15Abm3r12kqqGBFQYhQDEQhlL0udK_TTPUiaAzffB8T44APLH_BqsXWA68bceq0TL0GGC3bfeiSoPvozctg.coc0fsdUYLr7pkyESPwwh6MVD-EF_lSG1Ww0SIbsGX4&dib_tag=se&keywords=head+first+design+patterns&qid=1727605850&s=books&sprefix=Head+first+des%2Cstripbooks-intl-ship%2C229&sr=1-1"
+        },
+        {
+            "title": "Head First Statistics: A Brain-Friendly Guide",
+            "url": "https://www.amazon.com/Head-First-Statistics-Brain-Friendly-Guide/dp/0596527586/ref=sr_1_1?crid=3RVGOA2ZANY4E&dib=eyJ2IjoiMSJ9.BsPIk7d9w93E8HMmr4gGf9eP4GeM3X8hAr-IJRAiPcZ2RXfaFqYtQD6Uzy30AjythNSEbTrhTd5rT47UC3bzBh6L3f_UFhf-Ci3YTK8-NrErK-WBcJ0Rr766XkSVqLuQE9flrDGT5J5HX6OUnT2A4w.PqK7bHcndCYT_iJJg4onFeHQljcIM39V64Qhr5LAy8o&dib_tag=se&keywords=head+first+design+statistics&qid=1727605888&s=books&sprefix=head+first+design+statistic%2Cstripbooks-intl-ship%2C212&sr=1-1"
+        },
+        {
+            "title": "Java: The Complete Reference",
+            "url": "https://www.amazon.com/Java-Complete-Reference-Thirteenth/dp/1265058431/ref=sr_1_1?crid=2IIIKAFGLMHY6&dib=eyJ2IjoiMSJ9.doxe2peO8rH47m_ZvTh5oaSoXpTc1fqh4krj-OgasH1wB9Y_S6wswP_PJk-pKeosFKa_pYp2B4mUyw4JHU8Uq65W5czB6lNJvinJzS01BG6Lx2Hvds_VTo9__K3VmOxMNasycI-SzDU7jG9R937DnbVDTh3GVfuxnoxikTaNbSmcj-LBzoP8I7SaaBQoXPrD3vO_7LjCZaRne1RJ4lXR0u6QSkY6t_EYwYascCRmxHk.XxpTlGQtcKXslYo1WDnb4qITICSxPa-Yb31su5ysRLc&dib_tag=se&keywords=java+the+complete+reference&qid=1727605935&s=books&sprefix=Java+the+co%2Cstripbooks-intl-ship%2C323&sr=1-1"
+        },
+        {
+            "title": "Grokking Algorithms",
+            "url": "https://www.amazon.com/Grokking-Algorithms-Second-Aditya-Bhargava/dp/1633438538/ref=sr_1_1?crid=3KDU5O2H944QX&dib=eyJ2IjoiMSJ9.udKCRwfqvqqXcW7DFKotFlYPVAg3Yzu5_2WyJ342rADXG9Fg_-Y3pbgvcarswtbgYt5m0KbEycWPOcx8Ov6M7495rIg6LA7zqO92_IM1t0Cx1FXXGXyG1C_wBLb15VOhdGGqGKiR_aCmSoBV05jaEs7ShuS-NBoHPlNTETQ07pvGoqggJWvVQtwpwvt2AFKcQpRqe7z4zCJ9Whzox9D-07vBKVLKwHnRfTsOPVVL9yE.WlM_a9f0G3-kp62iLmwPKiwbqKWD5JIfx2mG2Wiepf4&dib_tag=se&keywords=grokking+algorithms&qid=1727605986&s=books&sprefix=Grokking+algorith%2Cstripbooks-intl-ship%2C964&sr=1-1"
+        },
+        {
+            "title": "Turn the Ship Around!: A True Story of Turning Followers into Leaders",
+            "url": "https://www.amazon.com/Turn-Ship-Around-Turning-Followers/dp/B08V4TFFCK/ref=sr_1_1?crid=1MN053GIFGCM0&dib=eyJ2IjoiMSJ9.BpOD1KNJXamZw5DmMXvD3g5Ch7AiSle3FmISmEMQA0F6ULodhHTVtoll4F1rEcOXlQShjIFSI-byIoNxp95NInGs4Sm2H2wwJiQoU7HoxzWJQdP-5RtkSm59xBngNduCw0ZvIoA4S4_H2PbYwJSVnlbCpK34gcYmn_x5e3hTWOAuctkfMHOtlHx3ceHhjQYnRmXpL7XEKY6fXgJMiFZYf5mwRsJ1FuKEJJT0AwrkaaM.5e9D8WQ2ajAnVjJTzxGtIYXtlv4YT3hpCh62FcCRXck&dib_tag=se&keywords=turn+the+ship+around&qid=1727606029&s=books&sprefix=turn+the+sh%2Cstripbooks-intl-ship%2C197&sr=1-1"
+        },
+        {
+            "title": "The 7 Habits of Highly Effective People",
+            "url": "https://www.amazon.com/Habits-Highly-Effective-People-Anniversary/dp/B086DD5KSJ/ref=sr_1_1?crid=3DSP8DU0KB4Y0&dib=eyJ2IjoiMSJ9.hYpIybftk3JjOE9VLiLMy19cHZeUef8FCtW6PqcTrRdjWaUIkzg4pNcddS5Ay3Lf--4HaesoPDakbICfJcGyqCJlqOTGjoQk3y_UlAuLWW1uLW9Kjr8127uRjH6PHRNjT-A3H5B-MIBZSKGbprrUHHyReDJy-2q_RE-65il78F40gEaU-5EAeR4TeWo8bEghRkgsMU5_9OX5IZ6K81rsfO7vvpJ0DZrbgt9zmVFuUFs.EjRttGLT8yGMBSETrw-biMGb9oEatekkgJoAVCauL_E&dib_tag=se&keywords=The+7+Habits+of+Highly+Effective+People&qid=1727606104&s=audible&sprefix=the+7+habits+of+highly+effective+people%2Caudible%2C286&sr=1-1"
+        },
+        {
+            "title": "Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems",
+            "url": "https://www.amazon.com/dp/1449373321/?bestFormat=true&k=designing%20data%20intensive&ref_=nb_sb_ss_w_scx-ent-pd-bk-d_de_k0_1_19&crid=2R96ONYG6AG1K&sprefix=Designing%20data%20inte"
+        },
+        {
+            "title": "Operating System Concepts",
+            "url": "https://www.amazon.com/Operating-System-Concepts-Abraham-Silberschatz-dp-1118093755/dp/1118093755/ref=dp_ob_title_bk"
+        },
+        {
+            "title": "Modern Operating Systems",
+            "url": "https://www.amazon.com/Modern-Operating-Systems-Andrew-Tanenbaum/dp/013359162X/ref=sr_1_1?crid=21KLZGZ0NOEP5&dib=eyJ2IjoiMSJ9.V0gjcrLZ1NoIvu-2yjYRO1FPkJfreUpxKx3X2tbjCXppHrHAczI-wS3c6WP7gEK_ax88wYVtympwBoHeojk6h0WSCTKDkfBFApL4ztpQthCgdHhInFOQE1dADsyYBuRqSOluMiproxvMksfgLzkDsA.XqdvfzZdwO2237jUZO8TKuyxVGYiMJiFrL9J3zMf52Q&dib_tag=se&keywords=modern+operating+systems+5th+edition&qid=1727606247&s=books&sprefix=Modern+operating%2Cstripbooks-intl-ship%2C239&sr=1-1"
+        },
+        {
+            "title": "Cracking the Coding Interview: 189 Programming Questions and Solutions (Cracking the Interview & Career)",
+            "url": "https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=sr_1_1?crid=VJSWQ6VJ11OI&dib=eyJ2IjoiMSJ9.nj6XTCgbP7Ay4ig5zGU-o8s4S8xUCinbbuvNUlcvZoKcmCc7i-CEuvrKeTXNikBonDw5_oYbbkqp6V8iSnFxLaau1hfRvqR0_GY-27SVn2aDKAW_uhiXGpLDry6UpCS72S8EbKpK3tY7lGZ-hEpR4FuKCpUgmaAMkGiQbuntecLFKg8lGVk3Q_Qh4S6QV-Mb_55aMZODau8DY4FVhjqtwZMrPXfoyogeAtXQsvLgZYg.Jukce49vj53IwVT1XbZupPZUOmpUaQDP2DK8ykq61fM&dib_tag=se&keywords=cracking+the+coding+interview&qid=1727606288&s=books&sprefix=Cracking+the+co%2Cstripbooks-intl-ship%2C274&sr=1-1"
+        },
+        {
+            "title": "Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services",
+            "url": "https://www.amazon.com/Designing-Distributed-Systems-Patterns-Paradigms/dp/1491983647/ref=sr_1_1?crid=1PHORHPDZL3TP&dib=eyJ2IjoiMSJ9.wLUA3Nuh9iakle3rKSOBC61pUac7zYlTMTfppnRvm4ahOz0lH8KQPW7IuR6XGMlfOceoMJAqyZheGRAQIxslZn3XfdfKC8ibN5FiA5V2tYw.uwp-w7s2JuNUmMhzwIEZctzKTHChmQtQ8uLwjRosJEA&dib_tag=se&keywords=Designing+Distributed+Systems+by+Brendan+Burns&qid=1727606405&s=books&sprefix=cracking+the+coding+interview%2Cstripbooks-intl-ship%2C243&sr=1-1"
+        },
+        {
+            "title": "Extreme Programming Explained: Embrace Change, 2nd Edition (The XP Series)",
+            "url": "https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0321278658/ref=sr_1_1?crid=3RWS70BPPFSU4&dib=eyJ2IjoiMSJ9.WrSa-EFtQYjFbdz2spdlQP7Fj0dlUIRpmt1KJQN7BMmJpmYBsi7HRSl6I_b3ZH2qZiiiqX19gUFnQHDw03AIWYoqBQ1rovi5A2yYijhdzF5FZxyGD8a4AZpLgAhr0krIwxwsEpO-ZPzptMKTnXw5eMdb5bpSZYuOVhDenkzlOz7jNKFmqWIv6vCtn0tX-cGWI7mDs3Syv6VxXp1Xn7AdgBtujbQNf9WITeB_um4Cei8.71qWum3K-0mzpeZNzgIIaLzKbnNbddddizBeuyhUQME&dib_tag=se&keywords=Extreme+programming&qid=1727606525&s=books&sprefix=designing+distributed+systems+by+brendan+burns%2Cstripbooks-intl-ship%2C186&sr=1-1"
+        },
+        {
+            "title": "Stanford | CS193p - Developing Apps for iOS",
+            "url": "https://cs193p.sites.stanford.edu/"
+        }
+    ],
+    "skills": [
+        "Android",
+        "Flutter",
+        "Java",
+        "Dart",
+        "Python",
+        "HTML",
+        "CSS",
+        "Data Structures",
+        "Git",
+        "GitHub",
+        "SQL",
+        "Socket Programming",
+        "Real-time apps",
+        "Functional programming",
+        "Async/Await",
+        "CoreData",
+        "Architecture Components",
+        "HockeyApp",
+        "GoF Design Patterns",
+        "Head First Design Patterns",
+        "Modular architecture",
+        "Xcode",
+        "AppCode",
+        "Android Studio",
+        "Fleet",
+        "VSCode"
+    ],
+    "socialLinks": [
+        {
+            "url": "https://www.linkedin.com/in/omar-ali-54b136330/",
+            "class": "bi-linkedin",
+            "title": "LinkedIn"
+        },
+        {
+            "url": "https://github.com/OmAlKml",
+            "class": "bi-github",
+            "title": "GitHub"
+        },
+        {
+            "url": "https://x.com/OmAlKml",
+            "class": "bi-twitter",
+            "title": "Twitter"
+        },
+        {
+            "url": "mailto:omar.ali.kml@gmail.com",
+            "class": "bi-envelope",
+            "title": "Email"
+        }
+    ]
+}
