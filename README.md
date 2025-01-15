@@ -2,4 +2,4 @@
 
 Welcome to my personal website!
 
-[omaralikml.github.io](https://omaralikml.github.io/)
+omaralikml.github.io
